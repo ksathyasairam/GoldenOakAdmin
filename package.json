@@ -1,0 +1,27 @@
+{
+  "name": "goldenoakadmin",
+  "version": "1.0.0",
+  "description": "Admin for Golden Oak Company",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksathyasairam/GoldenOakAdmin.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "sathyasairam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksathyasairam/GoldenOakAdmin/issues"
+  },
+  "homepage": "https://github.com/ksathyasairam/GoldenOakAdmin#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
